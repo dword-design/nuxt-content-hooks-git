@@ -49,6 +49,8 @@
 nuxt-content hooks that replace or add createdAt and updatedAt dates based on the git history.
 <!-- /DESCRIPTION -->
 
+ℹ️ **There is also a [Nuxt.js module](https://github.com/dword-design/nuxt-content-git) that does the same thing and is probably cleaner to use.**
+
 <!-- INSTALL/ -->
 ## Install
 
