@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dword-design/nuxt-content-hooks-git/compare/v1.0.1...v1.0.2) (2021-03-22)
+
+
+### Bug Fixes
+
+* notify about Nuxt.js module ([db12d60](https://github.com/dword-design/nuxt-content-hooks-git/commit/db12d605574ed8c793e831db0680a61f1899d2cb))
+
 ## [1.0.1](https://github.com/dword-design/nuxt-content-hooks-git/compare/v1.0.0...v1.0.1) (2021-03-18)
 
 
