@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/dword-design/nuxt-content-hooks-git/compare/v1.0.4...v1.0.5) (2021-03-23)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v3 ([#4](https://github.com/dword-design/nuxt-content-hooks-git/issues/4)) ([d60e14b](https://github.com/dword-design/nuxt-content-hooks-git/commit/d60e14b5287f264e30b7b4b5565a5fa91fef9351))
+
 ## [1.0.4](https://github.com/dword-design/nuxt-content-hooks-git/compare/v1.0.3...v1.0.4) (2021-03-22)
 
 
