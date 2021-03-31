@@ -8,9 +8,11 @@ export default options => {
     updatedAtName: 'updatedAt',
     ...options,
   }
+
   return {
     'content:file:beforeInsert': async (file, database) => {
       const git = simpleGit()
+
       const log = await git.log({
         file: P.join(database.dir, `${file.path}${file.extension}`),
       })
