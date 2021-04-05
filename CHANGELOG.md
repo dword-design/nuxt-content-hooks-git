@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/dword-design/nuxt-content-hooks-git/compare/v1.0.5...v1.0.6) (2021-04-05)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#5](https://github.com/dword-design/nuxt-content-hooks-git/issues/5)) ([4275cea](https://github.com/dword-design/nuxt-content-hooks-git/commit/4275ceab94895e6e853487cda0f54ea5711917ab))
+
 ## [1.0.5](https://github.com/dword-design/nuxt-content-hooks-git/compare/v1.0.4...v1.0.5) (2021-03-23)
 
 
